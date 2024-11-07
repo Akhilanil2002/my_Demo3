@@ -1,2 +1,6 @@
 this is a new branch
+<<<<<<< HEAD
 new branch F
+=======
+new branch D
+>>>>>>> A
